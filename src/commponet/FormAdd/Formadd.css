@@ -1,0 +1,27 @@
+.form-input{
+    padding: 5px;
+    text-align: start;
+    display: flex;
+   
+
+}
+.form-input input{
+   width: 80%;
+   /* border: none; */
+   padding: 0;
+   padding-top: 10px;
+   
+   
+}
+.form-input button{
+    width: 20%;
+   padding: 9px;
+   text-align: center;
+   line-height: 1;
+   background-color: green;
+   border: none;
+   color: #fff;
+   cursor: pointer;
+
+  
+}

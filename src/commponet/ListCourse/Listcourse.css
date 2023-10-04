@@ -1,0 +1,40 @@
+.Courserow{
+    
+    display: flex;
+    color: black;
+    justify-content:space-between;
+    width: 100%;
+    padding: 10px 0;
+}
+.Courserow button{
+    margin-left: 10px;
+    padding: 5px 30px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+
+}
+.Courserow  .btnDelete{
+    background-color: #e14647;
+}
+.Courserow .btnEdit{
+    background-color: gray;
+}
+.formUpdate{
+   
+    display: flex;
+    
+
+}
+.formUpdate input{
+    width: 80%;
+    padding: 5px;
+
+}
+.formUpdate button{
+    width: 20%;
+    background-color: green;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+color: #fff;
+  background-color: #fff;
+  width: 50%;
+  margin: 10% auto;
+  padding: 5px 20px;
+  
+  
+}
+.App h1{
+
+  margin:   5% auto;
+  background-color: #e14647;
+  padding: 10px 15px;
+  text-align: left;
+
+}
+.ulListCourse{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0;
+}
+
+
+
+
+
+
+
